@@ -1,5 +1,6 @@
 # Assignment-1
 //Angelene
+//WeiXin
 var listOfAllKnownAuthors = []
 
 class BookStore
