@@ -1,4 +1,5 @@
-# Asignemt-1
+# Assignment-1
+//Angelene
 var listOfAllKnownAuthors = []
 
 class BookStore
